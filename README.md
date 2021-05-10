@@ -4,10 +4,7 @@ DSO 560 Final Project
 This repo is created for the final project of DSO 560 Text Analaytics and Natural Language Processing. 
 
 Team Members for Group Red:
-Anni Cai
-Qiongqiong Lin
-Leon Man
-Wanqiu Zheng
+Anni Cai | Qiongqiong Lin | Leon Man | Wanqiu Zheng
 
 Project Overview:
 Develop a recommendation system that is based on the retail fashion brand's brand descriptive information.
