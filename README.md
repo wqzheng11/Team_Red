@@ -24,7 +24,7 @@ Avaiable Data:
 3. Outfits and Items
 4. Additional Tags
 
-# Part1. Abstract
+# Part1. Abstract - Classification Model
 
 **1.0. X variables we created:**
 ********************
