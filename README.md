@@ -25,6 +25,7 @@ Avaiable Data:
 4. Additional Tags
 
 # Part1. Abstract - Classification Model
+This is my link: \href{https://github.com/kwlwman2/Team_Red/tree/main/Part1_Classification%20Models}{Part1}
 
 **1.0. X variables we created:**
 ********************
