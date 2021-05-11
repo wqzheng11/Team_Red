@@ -12,7 +12,7 @@ Develop a recommendation system that is based on the retail fashion brand's bran
 The project includes 2 parts:
 1. Build an NLP classification model to predict which brand a new product should be assigned.
    - We created 15 new variables to train the model.
-   - We tried RandomForest Classifier, HistGradientBoosting Classifer, AdaBoost Classifier, and KNeighborsClassifier. As a result, we picked HistGradientBoosting        Classifer as the final model, since its achieve a 65.35% average accuracy score through cross validation process.
+   - We tried RandomForest Classifier, HistGradientBoosting Classifer, AdaBoost Classifier, and KNeighborsClassifier. As a result, we picked HistGradientBoosting        Classifer as the final model, since it achieves a 65.35% average accuracy score through cross validation process.
  
 2. Create a brand recommender algorithm that would recommend an outfit given a customer’s search query.
    - We tried both a TFIDF model and a Word2Vec model, and they are documented in TFIDF_Recommendation and Word2Vect_Recommendation files respectively
